@@ -1,3 +1,1 @@
-if true
-  puts "This code runs!"
-  end
+time.now 
